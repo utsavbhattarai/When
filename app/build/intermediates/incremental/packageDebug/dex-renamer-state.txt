@@ -1,0 +1,7 @@
+#Sat Apr 22 18:44:55 CDT 2017
+base.0=/home/utsav/AndroidStudioProjects/When/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d02e290f334ee393e5ad9dfb25d5c318dc888ecf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/utsav/AndroidStudioProjects/When/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39be9b8f80bc5214693898f307a7abfd6b8037d8/classes.dex
+base.1=/home/utsav/AndroidStudioProjects/When/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39be9b8f80bc5214693898f307a7abfd6b8037d8
+file.0=/home/utsav/AndroidStudioProjects/When/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d02e290f334ee393e5ad9dfb25d5c318dc888ecf/classes.dex

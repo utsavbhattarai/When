@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "826798265683",
+    "firebase_url": "https://when-9fded.firebaseio.com",
+    "project_id": "when-9fded",
+    "storage_bucket": "when-9fded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826798265683:android:15d5dec9c8f6b9b8",
+        "android_client_info": {
+          "package_name": "com.kaaikaas.when"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826798265683-ldsm1iddivi9uur32ojafu5s6mrjm6li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBR81h62Hxanl-HqRxJgUEah2hN8EeT0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
